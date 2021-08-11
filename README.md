@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Nedak23
-- 👀 I’m interested in coding a discord bot!!
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on nothing!!
-- 📫 How to reach me, just email me!!
+Hi! Im Nedak, and im currently coding a discord bot that allows you to set up alarms or schedule events!!
